@@ -1,0 +1,15 @@
+google-generativeai>=0.3.2
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+plotly>=5.17.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+openai>=1.3.0
+langchain>=0.0.350
+langchain-google-genai>=0.0.5
+jupyter>=1.0.0
+ipykernel>=6.25.0
